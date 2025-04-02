@@ -23,7 +23,7 @@ To set up these configurations on your system, follow these steps:
 git clone https://github.com/your-username/your-repo.git ~/.dotfiles
 ```
 
-### 3️⃣ Restart the Terminal and Neovim
+### 2️⃣ Restart the Terminal and Neovim
 
 Once symlinks are created, restart your terminal and Neovim to load the configurations.
 
